@@ -1,5 +1,5 @@
 #Git commands
 
 - git add.
- - git commit -m "message"
+ - git commit - "message"
  - git push 
